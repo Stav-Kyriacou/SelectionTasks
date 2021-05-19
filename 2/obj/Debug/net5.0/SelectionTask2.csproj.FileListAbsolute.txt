@@ -1,0 +1,16 @@
+C:\Users\Stavros\Projects\Selection\SelectionTask2\bin\Debug\net5.0\SelectionTask2.exe
+C:\Users\Stavros\Projects\Selection\SelectionTask2\bin\Debug\net5.0\SelectionTask2.deps.json
+C:\Users\Stavros\Projects\Selection\SelectionTask2\bin\Debug\net5.0\SelectionTask2.runtimeconfig.json
+C:\Users\Stavros\Projects\Selection\SelectionTask2\bin\Debug\net5.0\SelectionTask2.runtimeconfig.dev.json
+C:\Users\Stavros\Projects\Selection\SelectionTask2\bin\Debug\net5.0\SelectionTask2.dll
+C:\Users\Stavros\Projects\Selection\SelectionTask2\bin\Debug\net5.0\ref\SelectionTask2.dll
+C:\Users\Stavros\Projects\Selection\SelectionTask2\bin\Debug\net5.0\SelectionTask2.pdb
+C:\Users\Stavros\Projects\Selection\SelectionTask2\obj\Debug\net5.0\SelectionTask2.csprojAssemblyReference.cache
+C:\Users\Stavros\Projects\Selection\SelectionTask2\obj\Debug\net5.0\SelectionTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stavros\Projects\Selection\SelectionTask2\obj\Debug\net5.0\SelectionTask2.AssemblyInfoInputs.cache
+C:\Users\Stavros\Projects\Selection\SelectionTask2\obj\Debug\net5.0\SelectionTask2.AssemblyInfo.cs
+C:\Users\Stavros\Projects\Selection\SelectionTask2\obj\Debug\net5.0\SelectionTask2.csproj.CoreCompileInputs.cache
+C:\Users\Stavros\Projects\Selection\SelectionTask2\obj\Debug\net5.0\SelectionTask2.dll
+C:\Users\Stavros\Projects\Selection\SelectionTask2\obj\Debug\net5.0\ref\SelectionTask2.dll
+C:\Users\Stavros\Projects\Selection\SelectionTask2\obj\Debug\net5.0\SelectionTask2.pdb
+C:\Users\Stavros\Projects\Selection\SelectionTask2\obj\Debug\net5.0\SelectionTask2.genruntimeconfig.cache
